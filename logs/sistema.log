@@ -1,0 +1,64 @@
+asas
+2025-06-24 14:25:50 - WARNING:  El grupo 'desarrollo' ya existe.
+2025-06-24 14:25:50 - WARNING:  El grupo 'marketing' ya existe.
+2025-06-24 14:25:50 - WARNING:  El grupo 'administradores' ya existe.
+2025-06-24 14:25:50 - WARNING:  El grupo 'backup_users' ya existe.
+2025-06-24 14:25:50 - SUCCESS: Grupo 'administradores' tiene acceso sudo completo.
+2025-06-24 14:45:55 - WARNING:  El grupo 'desarrollo' ya existe.
+2025-06-24 14:45:55 - WARNING:  El grupo 'marketing' ya existe.
+2025-06-24 14:45:55 - WARNING:  El grupo 'administradores' ya existe.
+2025-06-24 14:45:55 - WARNING:  El grupo 'backup_users' ya existe.
+2025-06-24 14:45:55 - SUCCESS: Grupo 'administradores' tiene acceso sudo completo.
+2025-06-24 15:24:19 - SUCCESS: Directorios creados en /compartido/ y /backup/.
+2025-06-24 15:28:16 - SUCCESS: Directorios creados en /compartido/ y /backup/.
+2025-06-24 15:40:22 - SUCCESS: Hostname actualizado a 'maxitoAA'.
+2025-06-24 15:41:11 - SUCCESS: Hostname actualizado a 'maxitoooo'.
+2025-06-24 15:42:23 - SUCCESS: Hostname actualizado a 'Aaaa'.
+2025-06-24 15:42:39 - SUCCESS: Hostname actualizado a 'eeeee'.
+2025-06-24 15:43:11 - SUCCESS: Hostname actualizado a 'aaaaaa'.
+2025-06-24 15:43:46 - SUCCESS: Zona horaria configurada a 'America/Lima'.
+2025-06-24 15:44:30 - ERROR: No se pudo configurar la zona horaria.
+2025-06-24 15:44:53 - ERROR: No se pudo configurar la zona horaria.
+2025-06-24 15:45:01 - SUCCESS: Zona horaria configurada a 'America/Lima'.
+2025-06-24 15:45:14 - SUCCESS: Zona horaria configurada a 'America/Lima'.
+2025-06-24 15:45:29 - ERROR: No se pudo configurar la zona horaria.
+2025-06-24 15:45:39 - ERROR: No se pudo configurar la zona horaria.
+2025-06-24 15:46:34 - ERROR: Opción inválida.
+2025-06-24 16:14:24 - ERROR: Fallo al instalar paquetes esenciales.
+2025-06-24 16:18:45 - ERROR: Fallo al instalar paquetes esenciales.
+2025-06-24 19:19:24 - ERROR: Fallo al instalar paquetes esenciales.
+2025-06-24 19:19:43 - ERROR: Fallo al instalar paquetes esenciales.
+2025-06-24 19:52:57 - SUCCESS: Hostname actualizado a 'koala'.
+2025-06-24 19:53:11 - SUCCESS: Zona horaria configurada a 'America/Lima'.
+2025-06-24 19:53:26 - ERROR: Fallo al instalar paquetes esenciales.
+2025-06-24 19:55:36 - SUCCESS: Paquetes esenciales instalados.
+2025-06-24 19:55:45 - SUCCESS: Directorios creados en /compartido/ y /backup/.
+2025-06-24 21:51:43 - SUCCESS: Reporte del sistema generado en /tmp/reportes_sistema/reporte_sistema.txt
+2025-06-24 21:52:07 - SUCCESS: Todos los reportes han sido comprimidos en: /tmp/reportes_sistema_20250624_2152.tar.gz
+2025-06-24 21:52:13 - SUCCESS: Reporte de servicios generado en /tmp/reportes_sistema/reporte_servicios.txt
+2025-06-24 21:52:17 - SUCCESS: Reporte de backups generado en /tmp/reportes_sistema/reporte_backups.txt
+2025-06-24 21:52:18 - SUCCESS: Reporte de uso de disco generado en /tmp/reportes_sistema/reporte_disco.txt
+2025-06-24 21:52:20 - SUCCESS: Reporte de usuarios y grupos generado en /tmp/reportes_sistema/reporte_usuarios_grupos.txt
+2025-06-24 22:29:11 - ERROR: El archivo no existe.
+2025-06-24 22:31:14 - ERROR: El archivo no existe.
+2025-06-24 22:32:35 - ERROR: El archivo no existe.
+2025-06-24 22:34:52 - SUCCESS: Backup automático programado diario a las 2:00 AM.
+2025-06-24 22:34:59 - SUCCESS: Script de backup personal instalado en /usr/local/bin/backup_usuario.sh.
+2025-06-24 22:35:15 - SUCCESS: Backup manual completo guardado en /backup/sistema/manual_sistema_20250624_2235.tar.gz
+2025-06-24 22:35:53 - SUCCESS: Backup restaurado correctamente.
+2025-06-26 12:36:57 - WARNING:  El grupo 'desarrollo' ya existe.
+2025-06-26 12:36:57 - WARNING:  El grupo 'marketing' ya existe.
+2025-06-26 12:36:57 - WARNING:  El grupo 'administradores' ya existe.
+2025-06-26 12:36:57 - WARNING:  El grupo 'backup_users' ya existe.
+2025-06-26 12:36:57 - SUCCESS: Grupo 'administradores' tiene acceso sudo completo.
+2025-06-26 12:39:20 - SUCCESS: Todos los reportes han sido comprimidos en: /tmp/reportes_sistema_20250626_1239.tar.gz
+2025-06-26 14:10:43 - SUCCESS: Usuario 'mhuanca2' creado con éxito.
+2025-06-26 14:10:56 - WARNING:  El grupo 'desarrollo' ya existe.
+2025-06-26 14:10:56 - WARNING:  El grupo 'marketing' ya existe.
+2025-06-26 14:10:56 - WARNING:  El grupo 'administradores' ya existe.
+2025-06-26 14:10:56 - WARNING:  El grupo 'backup_users' ya existe.
+2025-06-26 14:10:56 - SUCCESS: Grupo 'administradores' tiene acceso sudo completo.
+2025-06-26 14:11:22 - ERROR: Usuario o grupo inválido.
+2025-06-26 14:11:59 - SUCCESS: Usuario 'mhuanca2' añadido al grupo 'desarrollo'.
+2025-06-26 14:13:05 - SUCCESS: Usuario 'mhuanca2' y su home eliminados.
+2025-06-26 15:11:22 - ERROR: La ruta especificada no existe.
